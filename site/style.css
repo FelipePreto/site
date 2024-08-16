@@ -1,0 +1,15 @@
+body{
+    background-color: #003C5F;
+}
+
+@font-face{
+    font-family: kalam;
+    src: url(kalamaya-old.ttf);
+}
+
+#titulo{
+    font-family: kalam;
+    font-weight: bold;
+    text-align: center;
+}
+
